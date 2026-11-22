@@ -165,17 +165,17 @@ namespace Task2
             // question 18
 
 
-            //PrintFirstBook(books);
+            //PrintFirstBook(string[] books);
 
+            static void PrintFirstBook(Book[] books)
+            {
+                if (books.Length == 0)
+                    return;
 
+                Console.WriteLine(books[0]);
 
-        }
-        static void PrintFirstBook(Book[] books)
-        {
-            if (books.Length == 0)
-                return;
-
-            Console.WriteLine(books[0]);
+            }
+      
         }
     }
 }

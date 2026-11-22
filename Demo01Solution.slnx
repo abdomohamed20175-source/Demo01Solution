@@ -2,8 +2,8 @@
   <Project Path="Day1Route/Day1Route.csproj" />
   <Project Path="Practice/Practice.csproj" Id="8d245c7b-29ad-46fe-a75d-2d05ef8d97df" />
   <Project Path="Project02/Project02.csproj" Id="ab7f83ef-287f-4335-a5c2-4c9a59905bbf" />
-  <Project Path="Task1/Task1.csproj" Id="42f0f682-e708-4ba8-9359-b9d18651bb3e" />
-  <Project Path="Task2/Task2.csproj" Id="00d374ce-b183-4193-931e-46982b1b5381" />
+  <Project Path="Task1/C# Basics Session02.csproj" Id="42f0f682-e708-4ba8-9359-b9d18651bb3e" />
+  <Project Path="Task2/C# Basics Session03.csproj" Id="00d374ce-b183-4193-931e-46982b1b5381" />
   <Project Path="Task3/Task3.csproj" Id="86bab788-78c8-42b6-ad0a-98a4332843df" />
   <Project Path="TaskSession_5/TaskSession_5.csproj" Id="c1592e0d-db66-4868-9784-2620752888c3" />
 </Solution>
