@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="C# Basics Session05/C# Basics Session05.csproj" Id="0df0e4a2-3d8a-4324-bdc4-913e815bbc59" />
   <Project Path="Day1Route/Day1Route.csproj" />
   <Project Path="Practice/Practice.csproj" Id="8d245c7b-29ad-46fe-a75d-2d05ef8d97df" />
   <Project Path="Project02/Project02.csproj" Id="ab7f83ef-287f-4335-a5c2-4c9a59905bbf" />
